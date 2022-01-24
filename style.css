@@ -1,0 +1,88 @@
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+li , a{
+    font-family: 'Poppins', sans-serif;
+}
+.btn-bg{
+    background-color: white;
+    color: #3F87F5;
+    border: none;
+    border-radius: 7px;
+    padding: 8px 20px;
+    font-weight: 700;
+
+}
+.btn-bg> a{
+    text-decoration: none;
+}
+.heading-one{
+    font-size: 56px;
+    font-weight: 700;
+}
+.plan{
+    padding: 30px 15px;
+    font-family:  'Poppins', sans-serif;
+    font-size: 15px;
+}
+.plan-3{
+    padding: 30px 15px;
+    font-family:  'Poppins', sans-serif;
+    font-size: 15px;
+    background-color: #3F87F5;
+    color: white;
+    position: relative;
+    bottom: 30px;
+    border-radius: 20px;
+}
+.spec{
+    right: 20px;
+    top: -10px;
+    height: 20px;
+    width: 60px;
+    border-radius: 20px;
+    background-color: tomato;
+}
+.heading-two{
+    font-size: 38px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 120px;
+}
+.heading-three{
+    font-size: 36px;
+    font-weight: 700;
+}
+.heading-four{
+    font-size: 28px;
+    font-weight: 700;
+}
+.plan-btn{
+    width: 150px;
+    border: none;
+    padding: 3px 20px;
+    border-radius: 8px;
+    background: #f496d231;
+    text-align: center;
+    color: #3F87F5;
+
+}
+.plan-btn a{
+    text-decoration: none;
+}
+.plan-btn-3{
+    width: 150px;
+    border: none;
+    padding: 3px 20px;
+    border-radius: 8px;
+    background: white;
+    text-align: center;
+    color: #3F87F5;
+
+}
+.plan-btn-3 a{
+    text-decoration: none;
+}
