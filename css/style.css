@@ -34,7 +34,7 @@ a{
     background-color: #3F87F5;
     color: white;
     position: relative;
-    bottom: 30px;
+    bottom: 50px;
     border-radius: 20px;
 }
 .spec{
@@ -89,10 +89,13 @@ a{
 .app-link{
     border: 1px solid white;
     background-color: transparent;
-    width: 300px;
-    border-radius: 20px;
+    width: 180px;
+    border-radius: 10px;
+}
+.app-link p{
+    font-size: 15px;
 }
 .icon{
-    font-size: 45px;
-    margin-right: 30px;
+    font-size: 40px;
+    margin-right: 20px;
 }
